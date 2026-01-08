@@ -1,0 +1,8 @@
+﻿  get.c
+  main.c
+  Code wird generiert...
+C:\Users\daryo\Desktop\PV-Rechner Neu\PV-Rechner Neu\get.c(97,5): warning C4098: "WinkelBestrahlung": "void"-Funktion gibt einen Wert zurück
+C:\Users\daryo\Desktop\PV-Rechner Neu\PV-Rechner Neu\main.c(81,5): warning C4013: "printFunktion" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\daryo\Desktop\PV-Rechner Neu\PV-Rechner Neu\main.c(57,10): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "Ort *" und "Ort (*)[12]" unterschiedlich
+C:\Users\daryo\Desktop\PV-Rechner Neu\PV-Rechner Neu\get.c(107,1): warning C4715: "strahlungNachWinkel": Nicht alle Codepfade geben einen Wert zurück.
+  PV-Rechner Neu.vcxproj -> C:\Users\daryo\Desktop\PV-Rechner Neu\x64\Debug\PV-Rechner Neu.exe
