@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="PV-Rechner/PV-Rechner.vcxproj" Id="8cbad539-1536-486d-b6eb-de73db818601" />
-</Solution>
